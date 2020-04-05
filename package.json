@@ -4,11 +4,18 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "@types/node": "^13.9.5"
+  },
+  "devDependencies": {
+    "install": "^0.13.0",
+    "nodemon": "^2.0.2",
+    "ts-node": "^8.8.2",
+    "typescript": "^3.8.3"
   }
 }
