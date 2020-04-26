@@ -9,7 +9,7 @@ const rl = createInterface({
 });
 
 const andarInicial : Number = 0;
-const andarFinal : Number = 20;
+const andarFinal : Number = 15;
 
 function escolha() {
     // faz a pergunta para o usuáio (input, entrada)
